@@ -1,2 +1,2 @@
-# python-for-data-science-and-machine-learning-bootcamp
+# Sobre este repositório
 Resolução dos exercícios propostos no Curso "Python for Data Science and Machine Learning Bootcamp" disponível em https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
